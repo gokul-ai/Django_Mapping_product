@@ -1,1 +1,0 @@
-# Django_Mapping_product
